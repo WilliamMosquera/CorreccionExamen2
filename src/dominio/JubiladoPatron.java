@@ -1,5 +1,6 @@
 package dominio;
 
+
 public class JubiladoPatron extends Jubilado implements Finanzas{
     private double inflacion;
     private int tipoe;
